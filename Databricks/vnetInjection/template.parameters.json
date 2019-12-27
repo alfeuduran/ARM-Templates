@@ -3,18 +3,18 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "workspaceName": {
-        "value": "workspaceWithVnet"
+        "value": "workspaceWithVnet2"
       },
       "managedResourceGroup": {
-        "value": "dbricksWithVnet"
+        "value": "dbricksWithVnet2"
       },
       "customPublicSubnetName":
       {
-        "value": "dbricksFront"
+        "value": "dbricks2Front"
       },
       "customPrivateSubnetName":
       {
-        "value": "dbricksBK"
+        "value": "dbricks2BK"
       }
 
     }
